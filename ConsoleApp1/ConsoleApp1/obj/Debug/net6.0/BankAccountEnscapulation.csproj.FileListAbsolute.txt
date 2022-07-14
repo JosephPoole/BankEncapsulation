@@ -1,0 +1,15 @@
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BankAccountEnscapulation.exe
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BankAccountEnscapulation.deps.json
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BankAccountEnscapulation.runtimeconfig.json
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BankAccountEnscapulation.dll
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BankAccountEnscapulation.pdb
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.dll
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\BankAccountEnscapulation.dll
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.pdb
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BankAccountEnscapulation.genruntimeconfig.cache
+C:\Users\Joseph\Desktop\Repos\Encapsulationproject\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\BankAccountEnscapulation.dll
